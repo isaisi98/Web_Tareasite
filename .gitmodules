@@ -1,3 +1,6 @@
 [submodule "Documents/GitHub/Tarea/Websitetarea/static_website/themes/ananke"]
 	path = Documents/GitHub/Tarea/Websitetarea/static_website/themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "Documents/GitHub/Tecnologia/static_website/themes/ananke"]
+	path = Documents/GitHub/Tecnologia/static_website/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git

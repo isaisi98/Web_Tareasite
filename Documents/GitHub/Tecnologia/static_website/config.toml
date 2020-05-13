@@ -1,0 +1,5 @@
+baseURL = "https://isaisi98.github.io/static_website/"
+languageCode = "en-us"
+title = "TECNOLOGIA WEB 4.0"
+publishDir = "docs"
+theme = "ananke"
